@@ -1,0 +1,67 @@
+.Mipag{
+    width: 500px;
+    padding: 50px;
+    margin-left: 20px;
+    margin-right: 2000;
+    text-align: center;
+}
+
+section {
+    width: 620px;
+    margin: 20px;
+    border: 15px solid blueviolet;
+    padding: 50px;
+    
+}
+
+h1 {
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: larger;
+    color:blue;
+    border: 2px solid powderblue;
+        
+    }
+   
+    
+
+p{
+    margin:auto;
+    width: 1000px;
+    color:black;
+    width: 300px;
+
+}
+
+
+
+h2 {
+    width: 550px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color:darkblue;
+}
+
+h3 {
+    width: 550px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color:crimson;
+    
+}
+
+h4 {
+    width: 550px;
+    font-family: 'Pacifico', cursive;
+    font-weight:normal;
+    color:coral;
+    
+}
+    
+#idioma {
+    width: 10;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:normal;
+    color:rgb(18, 13, 22);
+}
